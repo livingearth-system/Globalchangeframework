@@ -5,10 +5,10 @@ A globally relevant and standardized taxonomy and framework for consistently des
 
 Each impact and pressure term is defined separately in this online glossary to ensure consistent use and common understanding, allowing flexible combination into ‘impact (pressure)’ categories. The glossary is open for review and you are invited to suggest additional terms or amendments, which will be reviewed on a regular basis with an annual update planned.  
 
-* [Change-Impacts](Change-Impacts)
-* [Evidence-Base-for-Change](Evidence-Base-for-Change)
-* [Impacts-(pressures)](Impacts-(pressures))
-* [Pressures](Pressures)
+* [Change-Impacts](Change-Impacts.md)
+* [Evidence-Base-for-Change](Evidence-Base-for-Change.md)
+* [Impacts-(pressures)](Impacts-(pressures).md)
+* [Pressures](Pressures.md)
 
 ## Contributing
 
