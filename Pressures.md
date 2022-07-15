@@ -158,7 +158,5 @@ Water movement change	|	A change in the direction of flow of a body of water tha
 Weed invasion	|	Invasions begin when an introduced species is able to survive and give rise to subsequent generations.	|	The definition for this term is re-used from 'Weed Science Module 5 Weed Invasions', Faculty of Science, © The University of Queensland.	|	University of Queensland	|	-	|	https://shire.science.uq.edu.au/bb/PLNT3012/index.html
 Wetland drainage	|	Removal or exclusion of water from a wetland by pumping, excavation of channels, planting fast growing non-wetland trees or plants in a wetland area, abstraction of water from a river entering a wetland, channeling, reclamation and drainage itself.	|	Part of the definition for this term is re-used from 'Definition of drainage of wetlands', Law Insider. All contents of the lawinsider.com excluding publicly sourced documents are Copyright © 2013-2020 Law Insider Inc. All rights reserved.	|	Law Insider	|	-	|	https://www.lawinsider.com/dictionary/drainage-of-wetlands
 Wetland restoration and/or construction	|	The process of assisting the recovery of wetlands that has been degraded, damaged or destroyed.	|	The definition for this term is re-used from 'Definitions', Society for Ecological Restoration. © Society for Ecological Restoration Australasia	|	Society for Ecological Restoration Australiasia 	|	-	|	http://www.seraustralasia.com/standards/introduction.html
-	|		|		|		|		|	![image](https://user-images.githubusercontent.com/47514467/179262509-92c21f67-a48d-4f19-bc50-72d0dbc0ffa5.png)
-
 
 </html>
