@@ -13,258 +13,256 @@ For each of the impact and pressures listed in the Global Change Taxonomy, EDs (
 △| A change in type (e.g., species, water state) 
 
 
-| | | | | | | | | | | | Lifeform|Canopy cover|Canopy height|AGB|TEST|WF|PVF|NVPF|VM |BSP|AFP|
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-Crop damage (drought)||||||||||||||||||||||
-Accretion (sediment transport)||||||||||||||||||||||
-Algal bloom (eutrophication)||||||||||||||||||||||
-Algal bloom (high inland water temperatures)||||||||||||||||||||||
-Algal bloom (increased temperature)||||||||||||||||||||||
-Algal dieback (decreased temperature)||||||||||||||||||||||
-Bare soil exposure (burning)||||||||||||||||||||||
-Bare soil exposure (erosion)||||||||||||||||||||||
-Bare soil exposure (ploughing)||||||||||||||||||||||
-Bare soil exposure (tillage)||||||||||||||||||||||
-Blackwater event (inundation following extended drought)||||||||||||||||||||||
-Browning (decreased precipitation)||||||||||||||||||||||
-Building or infrastructure abandonment (dam removal)||||||||||||||||||||||
-Building or infrastructure abandonment (flooding)||||||||||||||||||||||
-Building or infrastructure abandonment (increased wind)|||||||||||||||||||||| 
-Building or infrastructure abandonment (urban fire)||||||||||||||||||||||
-Compaction (increased traffic)||||||||||||||||||||||
-Compaction (overgrazing (stock))|||||||||||||||||||||| 
-Compaction (overgrazing (natural))|||||||||||||||||||||| 
-Coral bleaching (increased acidity)||||||||||||||||||||||
-Coral damage (pathogens)||||||||||||||||||||||
-Coral bleaching (prolonged temperature increase)||||||||||||||||||||||
-Coral damage (sedimentation)||||||||||||||||||||||
-Coral damage (invasive or exotic species)|||||||||||||||||||||| 
-Coral recovery (decreased acidity)||||||||||||||||||||||
-Coral recovery (prolonged temperature decrease)||||||||||||||||||||||
-Crop change in cultivated lands (crop rotation)||||||||||||||||||||||
-Crop damage (drought)||||||||||||||||||||||
-Crop damage (excess precipitation)||||||||||||||||||||||
-Crop damage (excess rain)||||||||||||||||||||||
-Crop damage (flooding)||||||||||||||||||||||
-Crop damage (grazing (natural))||||||||||||||||||||||
-Crop damage (grazing (stock))||||||||||||||||||||||
-Crop damage (increased wind)||||||||||||||||||||||
-Crop damage (insect herbivory)||||||||||||||||||||||
-Crop damage (strong winds)||||||||||||||||||||||
-Crop establishment (planting)||||||||||||||||||||||
-Cropland gain (agricultural expansion)||||||||||||||||||||||
-Cropland gain (farmland creation)||||||||||||||||||||||
-Cropland loss (agricultural loss)||||||||||||||||||||||
-Cropland loss (animal stock change)||||||||||||||||||||||
-Cropland loss (fallowing)||||||||||||||||||||||
-Cropland loss (farmland abandonment)||||||||||||||||||||||
-Cropland loss (idle or fallow in rotation)||||||||||||||||||||||
-Deglaciation (prolonged temperature increase)||||||||||||||||||||||
-Desalinisation (gypsum application)||||||||||||||||||||||
-Desertification (prolonged temperature increase)||||||||||||||||||||||
-Elevation change (deposition)||||||||||||||||||||||
-Elevation change (earthquake)||||||||||||||||||||||
-Elevation change (landslide)||||||||||||||||||||||
-Elevation change (mining)||||||||||||||||||||||
-Elevation change (subsidence)||||||||||||||||||||||
-Elevation change (waste dumping)||||||||||||||||||||||
-Erosion (construction)||||||||||||||||||||||
-Erosion (excess precipitation)||||||||||||||||||||||
-Erosion (frost)||||||||||||||||||||||
-Erosion (increased traffic)||||||||||||||||||||||
-Erosion (increased wind)||||||||||||||||||||||
-Erosion (sea level fluctuation)||||||||||||||||||||||
-Erosion (topsoil removal)||||||||||||||||||||||
-Erosion (water movement change)||||||||||||||||||||||
-Erosion (wave action)||||||||||||||||||||||
-Flooding (excess rain)||||||||||||||||||||||
-Flooding (excess snow)||||||||||||||||||||||
-Geomorphological change (mining)|||||||||||||||||||||| 
-Glaciation (prolonged temperature decrease)||||||||||||||||||||||
-Greening (increased precipitation)||||||||||||||||||||||
-Increased sediment load (sediment transport)||||||||||||||||||||||
-Inundation (flooding)||||||||||||||||||||||
-Inundation (sea level fluctuation)|||||||||||||||||||||| 
-Lava Flow (volcanic eruption)||||||||||||||||||||||
-Leaf scorch (strong winds)||||||||||||||||||||||
-Mine abandonment (reduced investment)||||||||||||||||||||||
-Mine expansion (increased investment)||||||||||||||||||||||
-Natural surface gain (deposition)||||||||||||||||||||||
-Natural surface gain (urban rehabilitation)||||||||||||||||||||||
-Natural surface loss (mining)||||||||||||||||||||||
-Net snow gain (amount) (snowfall)||||||||||||||||||||||
-Snow accumulation (snowfall)||||||||||||||||||||||
-Net snow loss (amount) (snowmelt)||||||||||||||||||||||
-Net snow gain (extent) (snowfall)||||||||||||||||||||||
-Net snow loss (extent) (snowmelt)||||||||||||||||||||||
-Net snow gain (hydroperiod) (prolonged temperature decrease)||||||||||||||||||||||
-Net snow loss (hydroperiod) (prolonged temperature increase)||||||||||||||||||||||
-Phenological change (natural diurnal and seasonal cycles)||||||||||||||||||||||
-Snow melt (increased temperature)||||||||||||||||||||||
-Railway or road abandonment (reduced investment)||||||||||||||||||||||
-Railway or road construction (increased investment)||||||||||||||||||||||
-Receding Flood (reduced runoff post flood)||||||||||||||||||||||
-Salinisation (evaporation)||||||||||||||||||||||
-Salinisation (sea level fluctuation)||||||||||||||||||||||
-Sea ice decrease (prolonged temperature increase)||||||||||||||||||||||
-Sea ice increase (prolonged temperature decrease)||||||||||||||||||||||
-Sea level fall (ocean-atmosphere oscillations)||||||||||||||||||||||
-Sea level rise (melting ice sheets/glaciers)||||||||||||||||||||||
-Sea level rise (thermal expansion)||||||||||||||||||||||
-Sedimentation (dredging)||||||||||||||||||||||
-Sink hole (subsidence)||||||||||||||||||||||
-Snow accumulation (snowfall)||||||||||||||||||||||
-Snow melt (increased temperature)||||||||||||||||||||||
-Urban area loss (earthquake)||||||||||||||||||||||
-Urban area loss (flooding)||||||||||||||||||||||
-Urban area loss (tropical cyclone)||||||||||||||||||||||
-Urban damage (flooding)||||||||||||||||||||||
-Urban damage (increased wind)||||||||||||||||||||||
-Urban damage (urban fire)||||||||||||||||||||||
-Urban decay (dam failure)||||||||||||||||||||||
-Urban decay (mine abandonment)||||||||||||||||||||||
-Urban decay (subsidence)||||||||||||||||||||||
-Urban densification (construction)||||||||||||||||||||||
-Urban development (levelling)||||||||||||||||||||||
-Urban growth (construction)||||||||||||||||||||||
-Urban renewal (repairing damage)||||||||||||||||||||||
-Urban sprawl (construction)||||||||||||||||||||||
-Vegetation damage (bushfire)||||||||||||||||||||||
-Vegetation damage (excess precipitation)||||||||||||||||||||||
-Vegetation damage (excess rain)||||||||||||||||||||||
-Vegetation damage (flooding)||||||||||||||||||||||
-Vegetation damage (frost)||||||||||||||||||||||
-Vegetation damage (increased wind)||||||||||||||||||||||
-Vegetation damage (mechanical intervention)||||||||||||||||||||||
-Vegetation damage (prescribed burn)||||||||||||||||||||||
-Vegetation damage (prolonged snow cover)||||||||||||||||||||||
-Vegetation damage (severe thunderstorm)||||||||||||||||||||||
-Vegetation damage (strong winds)||||||||||||||||||||||
-Vegetation dieback (anchoring)||||||||||||||||||||||
-Vegetation dieback (cold snap)||||||||||||||||||||||
-Vegetation dieback (drought)||||||||||||||||||||||
-Vegetation dieback (heatwave)||||||||||||||||||||||
-Vegetation dieback (non-insect herbivory (natural))||||||||||||||||||||||
-Vegetation dieback (increased wind)||||||||||||||||||||||
-Vegetation dieback (pathogens)||||||||||||||||||||||
-Vegetation dieback (pollution) ||||||||||||||||||||||
-Vegetation dieback (prolonged inundation)||||||||||||||||||||||
-Vegetation dieback (prolonged snow cover)||||||||||||||||||||||
-Vegetation dieback (water salinisation)||||||||||||||||||||||
-Vegetation dieback (sea level fluctuation)||||||||||||||||||||||
-Vegetation dieback (soil salinisation)|||||||||||||||||||||| 
-Vegetation gain (amount) (thinning)||||||||||||||||||||||
-Vegetation gain (amount) (afforestation)||||||||||||||||||||||
-Vegetation gain (amount) (bushfire recovery)||||||||||||||||||||||
-Vegetation gain (amount) (ecological restoration)||||||||||||||||||||||
-Vegetation gain (amount) (encroachment)||||||||||||||||||||||
-Vegetation gain (amount) (farmland abandonment)||||||||||||||||||||||
-Vegetation gain (amount) (fertiliser application)||||||||||||||||||||||
-Vegetation gain (amount) (growth)||||||||||||||||||||||
-Vegetation gain (amount) (reduced or cessation of grazing)||||||||||||||||||||||
-Vegetation gain (amount) (reforestation (natural)||||||||||||||||||||||
-Vegetation gain (amount) (reforestation (plantations)||||||||||||||||||||||
-Vegetation gain (amount) (regrowth)||||||||||||||||||||||
-Vegetation gain (amount) (removal of herbivores)||||||||||||||||||||||
-Vegetation gain (amount) (revegetation)||||||||||||||||||||||
-Vegetation gain (amount) (urban greening)||||||||||||||||||||||
-Vegetation gain (amount) (vegetation thickening)||||||||||||||||||||||
-Vegetation gain (extent) (afforestation)||||||||||||||||||||||
-Vegetation gain (extent) (colonisation)||||||||||||||||||||||
-Vegetation gain (extent) (ecological restoration)||||||||||||||||||||||
-Vegetation gain (extent) (greenspace construction)||||||||||||||||||||||
-Vegetation gain (extent) (mine site rehabilitation)||||||||||||||||||||||
-Vegetation gain (extent) (planting)||||||||||||||||||||||
-Vegetation gain (extent) (rehabilitation)||||||||||||||||||||||
-Vegetation gain (extent) (revegetation)||||||||||||||||||||||
-Vegetation gain (extent) (snowmelt)||||||||||||||||||||||
-Vegetation gain (extent) (decreased wave action)||||||||||||||||||||||
-Vegetation health deterioration (abandonment of fertilizer application)||||||||||||||||||||||
-Vegetation health deterioration (decreased nutrient supply in soil)||||||||||||||||||||||
-Vegetation health improvement (fertiliser application)||||||||||||||||||||||
-Vegetation health improvement (increased nutrient supply)||||||||||||||||||||||
-Vegetation health improvement (irrigation)||||||||||||||||||||||
-Vegetation loss (extent) (bushfire)||||||||||||||||||||||
-Vegetation loss (extent) (deforestation)||||||||||||||||||||||
-Vegetation loss (extent) (drought)||||||||||||||||||||||
-Vegetation loss (extent) (excess rain)||||||||||||||||||||||
-Vegetation loss (extent) (farmland abandonment)||||||||||||||||||||||
-Vegetation loss (extent) (flooding)||||||||||||||||||||||
-Vegetation loss (extent) (land reclamation)||||||||||||||||||||||
-Vegetation loss (extent) (sea defence construction)||||||||||||||||||||||
-Vegetation loss (extent) (severe thunderstorm)||||||||||||||||||||||
-Vegetation loss (extent) (strong winds)||||||||||||||||||||||
-Vegetation loss (extent) (vegetation clearance)||||||||||||||||||||||
-Vegetation loss (extent) (wave action)||||||||||||||||||||||
-Vegetation reduction (amount) (bushfire)||||||||||||||||||||||
-Vegetation reduction (amount) (coppicing)||||||||||||||||||||||
-Vegetation reduction (amount) (decreased nutrient supply in soil)||||||||||||||||||||||
-Vegetation reduction (amount) (farmland abandonment)||||||||||||||||||||||
-Vegetation reduction (amount) (fuelwood collection)||||||||||||||||||||||
-Vegetation reduction (amount) (harvesting)||||||||||||||||||||||
-Vegetation reduction (amount) (herbicide/pesticide application)||||||||||||||||||||||
-Vegetation reduction (amount) (non-insect herbivory (natural))||||||||||||||||||||||
-Vegetation reduction (amount) (insect herbivory)||||||||||||||||||||||
-Vegetation reduction (amount) (mowing)||||||||||||||||||||||
-Vegetation reduction (amount) (overgrazing (stock))||||||||||||||||||||||
-Vegetation reduction (amount) (overgrazing (natural))||||||||||||||||||||||
-Vegetation reduction (amount) (prescribed burn)||||||||||||||||||||||
-Vegetation reduction (amount) (sedimentation)||||||||||||||||||||||
-Vegetation reduction (amount) (selective logging)||||||||||||||||||||||
-Vegetation reduction (amount) (stubble burn)||||||||||||||||||||||
-Vegetation reduction (amount) (thinning)||||||||||||||||||||||
-Vegetation reduction in understory (amount) (non-insect herbivory (natural))|||||||||||||||||||||| 
-Vegetation reduction in understory (amount) (grazing (natural)) ||||||||||||||||||||||
-Vegetation reduction in understory (amount) (grazing (stock))||||||||||||||||||||||
-Vegetation species change (amenity development)||||||||||||||||||||||
-Vegetation species change (atmospheric deposition)||||||||||||||||||||||
-Vegetation species change (control of invasive or exotic species)|||||||||||||||||||||| 
-Vegetation species change (decreased acidity)||||||||||||||||||||||
-Vegetation species change (decreased alkalinity)||||||||||||||||||||||
-Vegetation species change (decreased nutrient supply in soil)||||||||||||||||||||||
-Vegetation species change (flooding)||||||||||||||||||||||
-Vegetation species change (grazing (stock))||||||||||||||||||||||
-Vegetation species change (grazing (natural))||||||||||||||||||||||
-Vegetation species change (ground water recharge)||||||||||||||||||||||
-Vegetation species change (ground water extraction)|||||||||||||||||||||| 
-Vegetation species change (pesticide application)|||||||||||||||||||||| 
-Vegetation species change (increased acidity)||||||||||||||||||||||
-Vegetation species change (increased alkalinity)||||||||||||||||||||||
-Vegetation species change (increased nutrient supply in soil)||||||||||||||||||||||
-Vegetation species change (invasive/exotic species)||||||||||||||||||||||
-Vegetation species change (overgrazing (stock))||||||||||||||||||||||
-Vegetation species change (overgrazing (natural))||||||||||||||||||||||
-Vegetation species change (pathogens)||||||||||||||||||||||
-Vegetation species change (prolonged inundation)||||||||||||||||||||||
-Vegetation species change (burning)||||||||||||||||||||||
-Vegetation species change (succession)||||||||||||||||||||||
-Vegetation species change (undergrazing (stock))||||||||||||||||||||||
-Vegetation species change (undergrazing (natural))||||||||||||||||||||||
-Vegetation species change (pollution)||||||||||||||||||||||
-Water depth decrease (abstraction)||||||||||||||||||||||
-Water depth decrease (dam failure)||||||||||||||||||||||
-Water depth decrease (dam removal)||||||||||||||||||||||
-Water depth decrease (evaporation)||||||||||||||||||||||
-Water depth decrease (deposition)||||||||||||||||||||||
-Water depth increase (construction)||||||||||||||||||||||
-Water depth increase (dredging)||||||||||||||||||||||
-Water depth increase (flooding)||||||||||||||||||||||
-Water depth increase (sea level fluctuation)||||||||||||||||||||||
-Water depth increase (snowmelt)||||||||||||||||||||||
-Water gain (extent) (aquaculture expansion)||||||||||||||||||||||
-Water gain (extent) (excess precipitation)||||||||||||||||||||||
-Water gain (extent) (flooding)||||||||||||||||||||||
-Water gain (extent) (storm surge)||||||||||||||||||||||
-Water gain (extent) (wetland restoration and/or construction)||||||||||||||||||||||
-Water loss (extent) (aquaculture loss)||||||||||||||||||||||
-Water loss (extent) (drying)||||||||||||||||||||||
-Water loss (extent) (land reclamation)||||||||||||||||||||||
-Water loss (extent) (reduced snowfall)||||||||||||||||||||||
-Water loss (extent) (wetland drainage)||||||||||||||||||||||
-Water quality change (fracking)||||||||||||||||||||||
-Water quality change (nutrification)||||||||||||||||||||||
-Water quality change (pollution)||||||||||||||||||||||
-
+|impactpressure|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
+|impact pressure|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+IMPACTS_PRESSURES|"TERR CULT/MAN VEG (CTV| 111)"|"TERR NAT/SEMI-NAT VEG (NTV| 112)"|"AQUA CULT/MAN VEG (CAV| 123)"|"AQUA NAT/SEMI-NAT VEG (NAV| 124)"|"ARTIFICIAL SURFACE (AS| 215)"|"NATURAL SURFACE (NS| 216)"|ARTIFICIAL WATER (AW; 227)|NATURAL WATER (NW; 228)|WATER||LIFEFORM |Woody |Trees|Shrubs|Herbaceous|Forbs|Graminoids|Lichens/Mosses|Lichens|Mosses|ALGAE|LIFEFORM AQUATIC|Rooted Forbs|Free floating forbs|CANOPY COVER (%)|CANOPY HEIGHT (m)|LEAF TYPE|PHENOLOGY|"mixed (forbs| graminoids)"|annual|perennial|STRATIFICATION (Tree understorey)|LIFEFORM (Tree understorey)|COVER (Tree understorey)|HEIGHT (Tree understorey)|LIFEFORM (Shrub understorey)|COVER (Shrub understorey)|HEIGHT (Shrub understorey)|LIFEFORM (herbeceous/moss/lichen understorey)|COVER (herbaceous/moss/lichem understorey)|HEIGHT (herbaceous/moss/lichen  understorey)|CROP COMBINATIONS|CROP SEQUENCE (Terr)|CROP SEQUENCE (Aqua)|CROP WATER SUPPLY|CROP TIME FACTOR|CROP DAILY WATER VARIATIONS|CROP WATER SEASONALITY|WATER SEASONALITY|ARTIFICIAL SURFACE|LINEAR SURFACES|NON-LINEAR SURFACES|URBAN DENSITY|NONBUILT|Excavation site|Mine site|BARE SURFACE PHYSICAL STATE|Consolidated|Bare rock|Gravel/stones/boulders|Gravel|Stones|Boulders|Unconsolitated|Bare soil a/o other uncon. Mat|Stony (5-40 %)|Very stony (40-80 %)|WATER STATE|Flowing water|WATER PERSISTENCE|WATER seasonality|Waterlogged|tidal area|SNOW PERSISTENCE|WATER DEPTH|WATER SEDIMENT LOADS|SUBSTRATE MATERIAL|bare rock|"bare soil| peat or mud"|sand|Above ground biomass (Mg ha-1)|Woody fraction (%)|Photosynthetic fraction ($)|Non-photosynthetic vegetation (%)|Vegetation moisture (%)|"Burn scar presence (0|1)"|"Active fire presence (0|1)"|Chlorophyll amount|Foliar chemistry (other)|Urban density (%)|Building height (m)|Bare fraction (%)|Bare soil (%)|Soil moisture|Soil pH|Water salinity (PSU = 1g per kg)|Water pH|water quality measures|Water velocity (m sec-1)|Occurrence (flora species A - e.g. indicators)|Dominant plant species (coded)|Species richness (Flora)|Land surface temperature (oC)|Sea surface temperature (oC)|Fresh/brackish water temperature (oC)|Wind|Precipitation|Air Temperature (oC)|Day Length|Elevation (m)|Slope (degree)|Aspect (degrees)||
+Accretion (sediment transport)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |-□|+|△|-|+|+||||||||||||||||||||||||||||||||||
+Algal bloom (eutrophication)|||||||||220124|220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Algal bloom (high inland water temperatures)|||||||||220124|220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Algal bloom (increased temperature)|||||||||220124|220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Algal dieback (decreased temperature)||||124220||||||124220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Bare soil exposure (burning)||112216||||||||112216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Bare soil exposure (erosion)||112216||||||||112216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Bare soil exposure (ploughing)|111216|||||||||111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Bare soil exposure (tillage)|111216|||||||||111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Blackwater event (inundation following extended drought)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||+||□+|||||||||
+Vegetation Browning (decreased precipitation)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|-□||-|||||||||||||||||||||||||||
+Building or infrastructure abandonment (dam removal)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||-|-|-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|△|△||
+Building or infrastructure abandonment (flooding)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||-|-|-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Building or infrastructure abandonment (increased wind)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||-|-|-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Building or infrastructure abandonment (urban fire)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||-|-|-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Compaction (increased traffic)|111111|112112||||||||223223|||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||-|□+|-□||-|||||||||||||||||||||||||||
+Compaction (overgrazing (stock))|111111| |123123| ||||||234234|||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||-|□+|-□||-|||||||||||||||||||||||||||
+Compaction (overgrazing (natural))|111111|112112| |124124||||||347347||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Coral bleaching (increased acidity)|||| |||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||+||||△|-□||||||||||||
+Coral damage (pathogens)|||| |||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|-□||||||||||||
+Coral bleaching (prolonged temperature increase)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||△|-□||+||||||||||
+Coral damage (sedimentation)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|△||||||||||||||||||||||||△|-□||||||||||||
+Coral damage (invasive or exotic species)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|-□||||||||||||
+Coral recovery (decreased acidity)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-||||△|□+|||||| ||||||
+Coral recovery (prolonged temperature decrease)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||-||||||||||
+Crop change in cultivated lands (crop rotation)|111111||123123|||||||234234|||||||||||||||△|△||||||||||||||||△|△|△||△|||||||||||||||||||||||||||||||||||△||△|△|△|||△|△|||||||||||||||||||||||||
+Crop damage (drought)|111111|||||||||111111|||||||||||||||-|-□|||||||||||||||||||△|△|△|△|△||||||||||||||||||||||||||||||||-||-|+|-|||-|△||||||||||||||||||+|||||||
+Crop damage (excess precipitation)|111111|||||||||111111|||||||| |||||||-□|-□|||||||||||||||||||△|△|△|△|△||||||||||||||||||||||||||||||||-□||-□|□+|□+|||||||||||||||||||||||||||||
+Crop damage (excess rain)|111111|||||||||111111|||||||||||||||-□|-|||||||||||||||||||△||△||||||||||||||||||||||||||||||||||-□||||□+||||△|||||||||||||||||||||||||
+Crop damage (flooding)|111111|||||||||111111|||||||||||||||-□|-|||||||||||||||||||△|||△|△||||||||||||||||||||||||||||||||-□||-□|□+|+||||△|||||||||||||||||||||||||
+Crop damage (grazing (natural))|111111|112112|123123|124124||||||470470|||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-□|□+|-|||△||||||||||||||||||||||||||
+Crop damage (grazing (stock))|111111|112112|123123|124124||||||470470|||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-□|□+|-|||△||||||||||||||||||||||||||
+Crop damage (increased wind)|111111||123123|||||||234234||||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Crop damage (insect herbivory)|111111||123123|||||||234234|||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||-□|||||||||||||||||||||||||||||||
+Crop damage (strong winds)|111111||123123|||||||234234||||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Crop establishment (planting)|||||||216111|||216111||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Cropland gain (agricultural expansion)||112111||124123||||||236234||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Cropland gain (farmland creation)||112111||124123||||||236234||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Cropland loss (agricultural loss)|111112||123124||| ||||234236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Cropland loss (animal stock change)|111111|||||||||111111|||||||||||||||△|△||||||||||||||||△|||||||||||||||||||||||||||||||||||||||△||△|△|△|||||||||||||||||||||||||||||
+Cropland loss (fallowing)|111111|||||||||111111|||||||||||||||△|□+||||||||||||||||△|||||||||||||||||||||||||||||||||||||||△||-□|□+|△|||||||||||||||||||||||||||||
+Cropland loss (farmland abandonment)||111112||||||||111112||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Cropland loss (idle or fallow in rotation)|111111|||||||||111111|||||||||||||||△|△||||||||||||||||△|||||||||||||||||||||||||||||||||||||||△||△|△|△|||△||||||||||||||||||||||||||
+Deglaciation (prolonged temperature increase)|||||||||210216|210216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Desalinisation (gypsum application)|111111|||||||||111111|||||||||||||||△|△|||||||||||||||||||||||||||||||||||||||||||||||||||||||△||△|△||||△||||||||||||||||||||||||||
+Desertification (prolonged temperature increase)||112216||||||||112216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Elevation change (deposition)||||||216216||||216216|||||||||||||||||||||||||||||||||||||||||||||||△|||||||+|△|△|△|||||||||||||||||||||||||||||||||||||||||||+|△|△||
+Elevation change (earthquake)|111111|112112|123123|124124|215215|216216|227227|228228|220220|1577576||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|-|||||||||||||||||||△||||
+Elevation change (landslide)|111111|112112|123123|124124|215215|216216|227227|228228|220220|1577576|||||||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||-□|□+|△|||||-□|-|||||||||||||||||||△-|△|△||
+Elevation change (mining)|111215|112215|123215|124215|215215|216216|||220215|1122506||||||||||||||||||||||||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||-□|||||||||||||||||||-|△|△||
+Elevation change (subsidence)|111111|112112|123123|124124|215215|216216||| |901901|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||-||||
+Elevation change (waste dumping)|112215|112215|123215|124215|215215|216215|||220215|1123505||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|△|△||
+Erosion (construction)||||||216216||||216216|||||||||||||||||||||||||||||||||||||||||||||||△|-||||||+||||||||||||||||||||||||||||+|□+|||||||||||||||||||||
+Erosion (excess precipitation)|111216|112216|112216|124216||216216||||676080|||||||||||||||||||||||||||||||||||||||||||||||△|||||||△||||||||||||||||||||||||||||||||||||||||||||||-|△|△||
+Erosion (frost)||||||216216||||216216|||||||||||||||||||||||||||||||||||||||||||||||△|△||+|□+|□+|□+|+||||||||||||||||||||||||||||||||||||||||||||||-|△|△||
+Erosion (increased traffic)|111216|112216||||216216||||439648|||||||||||||||||||||||||||||||||||||||||||||||△|||||||-□||||||||||||||||||||||||||||||||||||||||||||||-||||
+Erosion (increased wind)|111216|112216||||216216||||439648|||||||||||||||||||||||||||||||||||||||||||||||△|△||||||△||||||||||||||||||||||||||||||||||||||||||||||-□||||
+Erosion (sea level fluctuation)||||124216||216216||||340432|||||||||||||||||||||||||||||||||||||||||||||||△|||||||+||||||||||||||||||||||||||||||||||||||||||||||-□||||
+Erosion (topsoil removal)||||||216216||||216216||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||-||||
+Erosion (water movement change)|112216|11216|123216|124216|215216|216216||||802296|||||||||||||||||||||||||||||||||||||||||||||||△||||||||||||||||||||||||||||||||||||||||||△|||||||||||-|△|△||
+Erosion (wave action)||||124216||216216||||340432|||||||||||||||||||||||||||||||||||||||||||||||△|||||||□+||||||||||||||||||||||||||||||||||||||||||||||-||||
+Flooding (excess rain)|112220|112220|123220|124220|215220|216220|||220220|1123540|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|□+|△|+|||+|+||||||||||||||||||||||||||||||||||||||
+Flooding (excess snow)|112220|112220|123220|124220|215220|216220|||220220|1123540|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|□+|△|+|||+|+||||||||||||||||||||||||||||||||||||||
+Geomorphological change (mining)|111215|112215|123215|124215|215215|216215||||902290||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||||||||||||||||||||||-|△|△||
+Glaciation (prolonged temperature decrease)||112220||124220||216220||||452660||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Greening (increased precipitation)|111111|112112|123123|124124||||||470470|||||||||||||||□+|□+|||||||||||||||||||||||||||||||||||||||||||||||||||||||□+||+|-|□+||+|||||||||||||||||||||||||||
+Increased sediment load (sediment transport)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||||||
+Inundation (flooding)|111220|112220|123220|124220|215220|216220|||220220|1122540|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|+|△|+||□+|+|+||||||||||||||||||||||||||||||||||||||
+Inundation (sea level fluctuation)|111220|112220|123220|124220|215220|216220||||902320||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Lava Flow (volcanic eruption)|111216|112216|123216|124216|215216|216216|||220216|1122512|||||||||||||||||||||||||||||||||||||||||||||||△|-||||||+||||||||||||||||||||||||||||||||||||||||||||||△|△|△||
+Leaf scorch (strong winds)|111111|112112|123123|124124||||||470470|||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|□+||||||||||||||||||||||||||||||
+Mine abandonment (reduced investment)|||||215215|||||215215|||||||||||||||-□|||||||||||||||||||||||||||||||-||||||||||||||||||||||||||||||||||-□||||||||||||||||||||||||
+Mine expansion (increased investment)|111215|112215|123215|124215|215215|216215|||220215|1122505||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||□+||||||||||||||||||||-|△|△||
+Natural surface gain (deposition)||||||216216||||216216||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||||||||||||||+||||
+Natural surface gain (urban rehabilitation)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||
+Natural surface loss (mining)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||||||||||||||||||||||-|△|△||
+Net snow gain (amount) (snowfall)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||□+|+|||||||||||||||||||||||||||||||||||||||
+Net snow loss (amount) (snowmelt)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||□+|-|||||||||||||||||||||||||||||||||||||||
+Net snow gain (extent) (snowfall)|111220|112220|123220|124220|215220|216220||||902320||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Net snow loss (extent) (snowmelt)|220111|220112|220123|220124|220215|220216||||1320901||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Net snow gain (hydroperiod) (prolonged temperature decrease)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||-|||||
+Net snow loss (hydroperiod) (prolonged temperature increase)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||||||||||||||||||+|||||
+Phenological change (natural diurnal and seasonal cycles)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△|△|||△|△|△|||||||||||||||||||||||||
+Railway or road abandonment (reduced investment in infrastructure)||215112||215124|215215|||||645451||||||||||||||||||||||||||||||||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Railway or road construction (increased investment in infrastructure)|111215|112215|123215|124215|215215|216215|||220215|1122505||||||||||||||||||||||||||||||||||||||||+|+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Receding Flood (reduced runoff post flood)|220111|220112|220123|220214|220215|220216||||1320991||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Salinisation (evaporation)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|||||||||||||||||||||+||||||||||||||||||
+Salinisation (sea level fluctuation)|111111|112112|123123|124124||216216||||563563|||||||||||||||△|△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△||||||||||||
+Sea ice decrease (prolonged temperature increase)||||||||228228|220220|448448|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||□+|||||||||||||||||||||||||||||+||||||||||
+Sea ice increase (prolonged temperature decrease)||||||||228228|220220|448448|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|||||||||||||||||||||||||||||-||||||||||
+Sea level fall (ocean-atmosphere oscillations)||||||||228228|220220|448448|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||-|||||||||||||||||||||||||||||||||||||||
+Sea level rise (melting ice sheets/glaciers)||||||||228228|220220|448448|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||+|||||||||||||||||||||||||||||||||||||||
+Sea level rise (thermal expansion)||||||||228228|220220|448448|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||+|||||||||||||||||||||||||||||+||||||||||
+Sedimentation (dredging)|||||||| |220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||+|+|△|||||||||||||||||||||||||||||||||||||
+Sink hole (subsidence)|111111|112112|123123|124124|215215|216216||||901901|||||||||||||||||||||||||||||||||||||||||||||||△|△||||||△||||||||||||||||||||||||||||||||||||||||||||||-||||
+Snow accumulation (snowfall)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||||||
+Snow melt (increased temperature)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||||||||||||||||||||||
+Urban area loss (earthquake)|||||215216|||||215216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Urban area loss (flooding)|||||215220|||||215220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Urban area loss (tropical cyclone)|||||215216|||||215216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Urban damage (flooding)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|+||||||+|+||||||||||||||-□||||||||||||||||||||||||
+Urban damage (increased wind)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||||||||||||||||+||||||||
+Urban damage (urban fire)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|+|||-||||||||||||||||||||||||
+Urban decay (dam failure)|||||215215|||||215215|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||-|△|||
+Urban decay (mine abandonment)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||-||||||||||||||||||||||||||||||||||-||||||||||||||||||||||||
+Urban decay (subsidence)|||||215215|||||215215|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||-||||
+Urban densification (construction)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|□+|||||||||||||||||||||||
+Urban development (levelling)|||||215215|||||215215|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||||||
+Urban growth (construction)|111215|112215|123215|124215| |216215|||220215|907290||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Urban renewal (repairing damage)|||||215215|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||□+|△|||||||||||||||||||||||
+Urban sprawl (construction)|111215|112215|123215|124215| |216215|||220215|907290||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation damage (bushfire)|111111|112112|123123|124124||||||470470|||||||||||||||-|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|+|-|+||||||||||||||||||||||||||||||
+Vegetation damage (excess precipitation)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|□+||||||||||||||||||||||||||||||
+Vegetation damage (excess rain)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|□+||||||||||||||||||||||||||||||
+Vegetation damage (flooding)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|△|□+|+|||||||||||||||||||||||||||||
+Vegetation damage (frost)|111111|112112|123123|124124||||||470470||||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||□+||||||||||||||||||||||||||||||
+Vegetation damage (increased wind)|111111|112112|123123|124124||||||470470||||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation damage (mechanical intervention)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-|□+||||||||||||||||||||||||||||||
+Vegetation damage (prescribed burn)|111111|112112|123123|124124||||||470470||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation damage (prolonged snow cover)|111111|112112|123123|124124||||||470470||||||||||||||||-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|□+||||||||||||||||||||||||||||||
+Vegetation damage (severe thunderstorm)|111111|112112|123123|124124||||||470470|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-□|-|+||||||||||||||||||||||||||||||
+Vegetation damage (strong winds)|111111|112112|123123|124124||||||470470|||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-|+||||||||||||||||||||||||||||||
+Vegetation dieback (anchoring)| | | |124124||||||124124|||||||||||||||-|-|||△|□+|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation dieback (coldsnap)|111111|112112|123123|124124||||||470470|||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|||||||||||||||||||||||||||||||
+Vegetation dieback (drought)|111111|112112|123123|124124||||||470470|||||||||||||||-|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|□+||||||||||||||||||||||||||||||
+Vegetation dieback (heatwave)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|□+|-|||||||||||||||||||||||||||||
+Vegetation dieback (Non-insect herbivory (natural))|111111|112112|123123|124124||||||470470|||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|□+||||||||||||||||||||||||||||||
+Vegetation dieback (increased wind)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|+|-|+|-□|||-|△||||||||||||△|||||+||||||||
+Vegetation dieback (pathogens)|111111|112112|123123|124124||||||470470|||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|□+||||-□||||||| |||||||||||||||||||
+Vegetation dieback (pollution)|111111|112112|123123|124124||||||470470|||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|□+||||-□||||||||||||||||||||||||||
+Vegetation dieback (prolonged inundation)|111111|112112|123123|124124||||||470470|||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-□|△|+||||-□||||||||||||||||||||||||||
+Vegetation dieback (prolonged snow cover)|111111|112112|123123|124124||||||470470|||||||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|+||||-||||||||||||||||||||||||||
+Vegetation dieback (water salinisation)|111111|112112|123123|124124||||||470470|||||||||||||||-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||
+Vegetation dieback (sea level fluctuation)|111111|112112|123123|124124||||||470470|||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-□|-|+||||||||||||||||||||||||||||||
+Vegetation dieback (soil salinisation)|111111|112112|123123|124124||||||470470|||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△|+||||△||||||||||||||||||||||||||
+Vegetation gain (amount) (thinning)| |112112| |124124||||||236236|||||||||||||||-|-||||||△||△|△||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
+Vegetation gain (amount) (afforestation)|111112| |123124| ||||||234236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (bushfire recovery)| |112112| | ||||||112112|△|||||||| ||||||+|+||||||||△|△||△|△||△|△||||||||||||||||||||||||||||||||||||||||+|+|□+|-|+|1|1|□+||||||||||||||||||||||||||
+Vegetation gain (amount) (ecological restoration)| |112112| |124124||||||236236|△||||||||||||||+|+||||||△||△|□+||△|△||△|△||||||||||||||||||||||||||||||||||||||||+|+|□+|-||||||||||||||||||||||||||||||
+Vegetation gain (amount) (encroachment)|111112|112112|123124|124124||||||470472|△||||||||||||||+|+||||||△||△|□+||△|△||△|△||||||||||||||||||||||||||||||||||||||||+|+|□+|△||||||||||||||||||||||||||||||
+Vegetation gain (amount) (farmland abandonment)|111112|||||||||111112||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (fertilisation)|111111| |123123|||||||234234|||||||||||||||+|+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (fertiliser application)|111111||123123|||||||234234|||||||||||||||+|+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (growth)|111111|112112|123123|124124||||||470470|||||||||||||||+|+||||||||△|□+||△|△||△|△||||||||||||||||||||||||||||||||||||||||+|+|□+|△|+|||+||||||||||||||||||||||||||
+Vegetation gain (amount) (reduction or cessation of grazing)|111111|112112||||||||223223|△||||||||||||||+|+||||||||△|□+||△|△||□+|□+||||||||||||||||||||||||||||||||||||||||+|+|□+|-||||□+||||||||||||||||||||||||||
+Vegetation gain (amount) (reforestation (natural))|111112|112112|123124|124124||||||470472|△|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (reforestation (plantations))|111111||123123|||||||234234|||||||||||||||+|+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (regrowth)||112112||124124||||||236236|||||||||||||||+|+||||||||△|□+||△|△||□+|△||||||||||||||||||||||||||||||||||||||||+|+|□+|-|□+|||□+||||||||||||||||||||||||||
+Vegetation gain (amount) (removal of herbivores)||112112||124124||||||236236|△||||||||||||||+|+||||||||△|□+||△|△||□+|△||||||||||||||||||||||||||||||||||||||||+|+|□+|-||||□+||||||||||||||||||||||||||
+Vegetation gain (amount) (revegetation)|111124||123124|||||||234248||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (urban greening)|||||215111|||||215111||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (amount) (vegetation thickening)||112112||||||||112112|△||+|+|-□|-□|-□||||||||+|+||||||△||□+|△||□+|□+||△|△||||||||||||||||||||||||||||||||||||||||+|+|□+|△||||□+||||||||||||||||||||||||||
+Vegetation gain (extent) (afforestation)|111124||111124|||||||222248||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (extent) (colonisation)||216112||216124||||||432236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (extent) (ecological restoration)|112112||124124|||||||236236|△||||||||||||||△|△|△|||||△|△|△|△|△|△|△|△|△|△||||||||||||||||||||||||||||||||||||||||□+||□+|-□|△|||||||||||||||||||||||||||||
+Vegetation gain (extent) (greenspace construction)||215112||215124||||||430236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (extent) (mine site rehabilitation)||215112||215124||215216||||645452||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (extent) (planting)|216111|216112|216123|216124||||||864470||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (extent) (rehabilitation)|112112||124124|||||||236236|△||||||||||||||△|△|△|||||△|△|△|△|△|△|△|△|△|△||||||||||||||||||||||||||||||||||||||||□+||□+|-□|△|||||||||||||||||||||||||||||
+Vegetation gain (extent) (revegetation)||216112||216124||||||432236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (extent) (snowmelt)|220111|220112|220123|220124||||||880470||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation gain (extent) (decreased wave action)||||220124||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation health deterioration (abandonment of fertilizer application)|111111||123123|||||||234234|||||||||||||||-|-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation health deterioration (decreased nutrient supply in soil)|111111|112112|123123|124124||||||470470|||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||-□|□+||||-□||||||||||||||||||||||||||
+Vegetation health improvement (fertiliser application)|111111||123123|||||||234234|||||||||||||||□+|□+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation health improvement (increased nutrient supply)|111111|112112|123123|124124||||||470470|||||||||||||||□+||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||□+|-□||||□+||||||||||||||||||||||||||
+Vegetation health improvement (irrigation)|111111||123123|||||||234234|||||||||||||||□+|□+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (bushfire)||112216||124216||||||236432||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (deforestation)|112111|112112|124123|112124|112215|112216||||684901|△|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (drought)|111216|112216||||||||223432||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (excess rain)|111216|||||||||111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (farmland abandonment)|111216|||||||||111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (flooding)|112220|||||||||112220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (land reclamation)| |112216||124216||||||236432||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (sea defence construction)|111216|112216|123216|124216||||||470864||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (severe thunderstorm)|111216|112216|123216|124216||||||470864||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (strong winds)|111216|112216|123216|124216||||||470864||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (vegetation clearance)||112216||124216||||||236432||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation loss (extent) (wave action)|| |123220|124220||||||247440||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (bushfire)||112112||||||||112112|△||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-|+|-|||-||||||||||||||||||||||||||
+Vegetation reduction (amount) (coppicing)||112112||||||||112112|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (decreased nutrient supply in soil)||112112||||||||112112|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||-□|-||||-□||||||||||||||||||||||||||
+Vegetation reduction (amount) (farmland abandonment)|111124|||||||||111124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (fuelwood collection)||112112||124124||||||236236|||||||||||||||-|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|△||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (harvesting)|111111|112112||||||||223223|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (pesticide application)||112112||124124||||||236236|||||||||||||||-|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||-□|+||||-||||||||||||||||||||||||||
+Vegetation reduction (amount) (herbivory (natural))|111111|112112|123123|124124||||||470470|||||||||||||||-|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-□|||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (insect herbivory)|111111|112112|123123|124124||||||470470||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (mowing)|111111|112112||||||||223223|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-□|△|-|||-||||||||||||||||||||||||||
+Vegetation reduction (amount) (overgrazing (stock))|111111|||||||||111111|||||||||||||||-□|-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (overgrazing (natural))||112112||||||||112112|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-□||-|||-||||||||||||||||||||||||||
+Vegetation reduction (amount) (prescribed burn)||112112||||||||112112|△||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-|+|-|||-||||||||||||||||||||||||||
+Vegetation reduction (amount) (sedimentation)||||124124||||||124124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-□|□+|||△|||||||||||||||||||||||||||
+Vegetation reduction (amount) (selective logging)||112112||||||||112112|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-|□+||||||||||||||||||||||||||||||
+Vegetation reduction (amount) (stubble burn)|111111|||||||||111111|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-|+|-|+|+|-||||||||||||||||||||||||||
+Vegetation reduction (amount) (thinning)|111111|112112||124124||||||347347|||||||||||||||-|-|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
+Vegetation reduction in understory (amount) (non-insect herbivory (natural))||112112||124124||||||236236|||||||||||||||-||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
+Vegetation reduction in understory (amount) (grazing (natural))||112112||124124||||||236236|||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|||||||||||||||||||||||||||||||||
+Vegetation reduction in understory (amount) (grazing (stock))|111111|112112|123123|124124||||||470470|||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|||||||||||||||||||||||||||||||||
+Vegetation species change (amenity development)|111111|||||||||111111|||||||||||||||△|△|||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△|△|△||||||||||||||||△|||||||||||||
+Vegetation species change (atmospheric deposition)||112112||124124||||||236236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△||||||||||||
+Vegetation species change (control of invasive species)||112112||||||||112112|△||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△|||||△||||||||||||||||||||||||||
+Vegetation species change (decreased acidity)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||△||||||||||||||△||||||||||||
+Vegetation species change (decreased alkalinity)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||△||||||||||||||△||||||||||||
+Vegetation species change (decreased nutrient supply in soil)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||-□||||||||||||||△||||||||||||
+Vegetation species change (flooding)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△||+|||△||||||||||||||||||||||||||
+Vegetation species change (grazing (stock))||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||-||-□||-|||-||||||||||||||△||||||||||||
+Vegetation species change (grazing (natural))||112112||124124||||||236236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Vegetation species change (ground water recharge)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△||△|||△||||||||||||||△||||||||||||
+Vegetation species change (ground water extraction)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△||△|||△||||||||||||||△||||||||||||
+Vegetation species change (pesticide application)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||-||-□|||△||||||||||||||△||||||||||||
+Vegetation species change (increased acidity)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||△||||||||||||||△||||||||||||
+Vegetation species change (increased alkalinity)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||△||||||||||||||△||||||||||||
+Vegetation species change (increased nutrient supply in soil)||112112||124124||||||236236|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||□+|||||+||||||||||||||△||||||||||||
+Vegetation species change (invasive/exotic species)|111111|112112||124124||||||347347|△||||||||||||||△|△|△||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△||△|||△|||||||||||||△|||||||||||||
+Vegetation species change (overgrazing (stock))|111111|||||||||111111|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||||||||||
+Vegetation species change (overgrazing (natural))||112112||||||||112112|||||||||||||||△|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||△||-||-|||△||||||||||||||||||||||||||
+Vegetation species change (pathogens)|111111|112112||||||||223223|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||△|||||||||||||△|||||||||||||
+Vegetation species change (prolonged inundation)||112124||124124||||||236248|||||||||||||||△||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||△|+|△|||△||||||||||||||△||||||||||||
+Vegetation species change (burning)||112112||||||||112112|△||||||||||||||△|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-|△|+|-|1|1|△||||||||||||||||||||||||||
+Vegetation species change (succession)||112112||124124||||||236236|△||||||||||||||△|+|||||||||||||||||||||||||||||||||||||||||||||||||||||||+|+|□+|-□|□+|||△|||||||||||||△|△||||||||||||
+Vegetation species change (undergrazing (stock))|111111|||||||||111111|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||||||||||
+Vegetation species change (undergrazing (natural))||112112||||||||112112|△||||||||||||||△|□+|||||||||||||||||||||||||||||||||||||||||||||||||||||||+|+|□+|□+|□+|||△||||||||||||||||||||||||||
+Water depth decrease (abstraction)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||||||||||||||||||||||
+Water depth decrease (dam failure)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|+|△|||||||||||||||||||||||||||||||||||||
+Water depth decrease (dam removal)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|+|△|||||||||||||||||||||||||||||||||||||
+Water depth decrease (deposition)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water depth decrease (evaporation)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|||-|||||||||||||||||||||□+|||||||||||||+|||||
+Water depth increase (construction)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|+|△|||||||||||||||||||||||||||||||||||||
+Water depth increase (dredging)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|+|△|||||||||||||||||||||||||||||||||||||
+Water depth increase (flooding)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|□+||+|||+|+||||||||||||||||||||||||||||||||||||||
+Water depth increase (sea level fluctuation)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||+|||||||||||||||||||||||||||||||||||||||
+Water depth increase (snowmelt)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|-|+||||||||||||||||||||||||||||||||-||||||
+Water gain (extent) (aquaculture expansion)||||124220||||||124220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water gain (extent) (excess precipitation)|111220|112220|123220|124220||216220||||687100||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water gain (extent) (flooding)|111220|112220|123220|124220||216220||||687100||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water gain (extent) (storm surge)|111220|112220|123220|124220||216220||||687100||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water gain (extent) (wetland restoration and/or construction)|111220|112220|123220|124220||216220||||687100||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water loss (extent) (aquaculture loss)|220111|220112||220124||||||660347||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water loss (extent) (drying)| |220112||||||||220112||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water loss (extent) (land reclamation)|220111|220112||||||||440223||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water loss (extent) (reduced snowfall)|220111|220112|220123|220124|220215|220216||||1320901||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water loss (extent) (wetland drainage)|220111|220112||| |220216||||660439||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Water quality change (fracking)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||
+Water quality change (nutrification)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||
+Water quality change (pollution)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||||||||||||||||||+||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 | | Lifeform|Canopy cover|Canopy height|AGB|TEST|WF|PVF|NVPF|VM |BSP|AFP|
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
