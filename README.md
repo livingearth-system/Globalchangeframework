@@ -7,7 +7,7 @@ Each impact and pressure term is defined separately in this online glossary to e
 
 * [Change Impacts](Change-Impacts.md)
 * [Change Pressures](Pressures.md)
-* [Impacts (pressures)](Impacts-(pressures).md)
+* [Impacts (Pressures)](Impacts-(pressures).md)
 * [Evidence Base for Change](Evidence-Base-for-Change.md)
 * [Time Factors](Timefactor.md)
 
