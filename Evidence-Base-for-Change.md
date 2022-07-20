@@ -4,7 +4,7 @@ The following table suggests evidence for the different 'impact (pressure)' clas
 
 For each of the impact and pressures listed in the Global Change Taxonomy, EDs (OEDs, EEDs and AEDs) that provide evidence for each 'impact (pressure)' category are suggested. The nature of change (positive or negative for continuous variables or simply a change for categories) is suggested.  
 
-| Symbol| Explanation
+|Symbol| Explanation
 :-----:|:-----
 +| Increase in amounts
 □+| Likely increase in amounts
@@ -12,9 +12,8 @@ For each of the impact and pressures listed in the Global Change Taxonomy, EDs (
 -□| Likely decrease in amounts
 △| A change in type (e.g., species, water state) 
 
-
-|impactpressure|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
-|impact pressure|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|impact pressure|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 IMPACTS_PRESSURES|"TERR CULT/MAN VEG (CTV| 111)"|"TERR NAT/SEMI-NAT VEG (NTV| 112)"|"AQUA CULT/MAN VEG (CAV| 123)"|"AQUA NAT/SEMI-NAT VEG (NAV| 124)"|"ARTIFICIAL SURFACE (AS| 215)"|"NATURAL SURFACE (NS| 216)"|ARTIFICIAL WATER (AW; 227)|NATURAL WATER (NW; 228)|WATER||LIFEFORM |Woody |Trees|Shrubs|Herbaceous|Forbs|Graminoids|Lichens/Mosses|Lichens|Mosses|ALGAE|LIFEFORM AQUATIC|Rooted Forbs|Free floating forbs|CANOPY COVER (%)|CANOPY HEIGHT (m)|LEAF TYPE|PHENOLOGY|"mixed (forbs| graminoids)"|annual|perennial|STRATIFICATION (Tree understorey)|LIFEFORM (Tree understorey)|COVER (Tree understorey)|HEIGHT (Tree understorey)|LIFEFORM (Shrub understorey)|COVER (Shrub understorey)|HEIGHT (Shrub understorey)|LIFEFORM (herbeceous/moss/lichen understorey)|COVER (herbaceous/moss/lichem understorey)|HEIGHT (herbaceous/moss/lichen  understorey)|CROP COMBINATIONS|CROP SEQUENCE (Terr)|CROP SEQUENCE (Aqua)|CROP WATER SUPPLY|CROP TIME FACTOR|CROP DAILY WATER VARIATIONS|CROP WATER SEASONALITY|WATER SEASONALITY|ARTIFICIAL SURFACE|LINEAR SURFACES|NON-LINEAR SURFACES|URBAN DENSITY|NONBUILT|Excavation site|Mine site|BARE SURFACE PHYSICAL STATE|Consolidated|Bare rock|Gravel/stones/boulders|Gravel|Stones|Boulders|Unconsolitated|Bare soil a/o other uncon. Mat|Stony (5-40 %)|Very stony (40-80 %)|WATER STATE|Flowing water|WATER PERSISTENCE|WATER seasonality|Waterlogged|tidal area|SNOW PERSISTENCE|WATER DEPTH|WATER SEDIMENT LOADS|SUBSTRATE MATERIAL|bare rock|"bare soil| peat or mud"|sand|Above ground biomass (Mg ha-1)|Woody fraction (%)|Photosynthetic fraction ($)|Non-photosynthetic vegetation (%)|Vegetation moisture (%)|"Burn scar presence (0|1)"|"Active fire presence (0|1)"|Chlorophyll amount|Foliar chemistry (other)|Urban density (%)|Building height (m)|Bare fraction (%)|Bare soil (%)|Soil moisture|Soil pH|Water salinity (PSU = 1g per kg)|Water pH|water quality measures|Water velocity (m sec-1)|Occurrence (flora species A - e.g. indicators)|Dominant plant species (coded)|Species richness (Flora)|Land surface temperature (oC)|Sea surface temperature (oC)|Fresh/brackish water temperature (oC)|Wind|Precipitation|Air Temperature (oC)|Day Length|Elevation (m)|Slope (degree)|Aspect (degrees)||
 Accretion (sediment transport)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |-□|+|△|-|+|+||||||||||||||||||||||||||||||||||
 Algal bloom (eutrophication)|||||||||220124|220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -263,19 +262,3 @@ Water quality change (fracking)|||||||||220220|220220|||||||||||||||||||||||||||
 Water quality change (nutrification)|||||||||220220|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||
 Water quality change (pollution)|||||||||220220|220220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|||||||||||||||||||||+||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-| | Lifeform|Canopy cover|Canopy height|AGB|TEST|WF|PVF|NVPF|VM |BSP|AFP|
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-Crop damage (drought)||-|-□|-| |-|+|-| | |-|△
-Crop damage (excess precipitation)||-□|-□|-□| |-□|□+|□+| | | | 
-Crop damage (excess rain)||-□|-|-□| | | |□+| | | |△
-Crop damage (flooding)||-□|-|-□| |-□|□+|+| | | |△
-Crop damage (grazing)||-□|-|-| |-□|□+|-| | |△| 
-Crop damage (increased wind)|| |-□| | | | | | | | | 
-Crop damage (insect herbivory)||-□| |-□| |-□| | | | | | 
-Crop damage (strong winds)|| |-□| | | | | | | | | 
-
-
-
-
-
