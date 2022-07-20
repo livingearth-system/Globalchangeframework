@@ -1,3 +1,7 @@
+**FACTORING IN TIME**
+
+The time dimension provides additional evidence for interpreting the nature of change and can be described according to i) the time span of the actual natural event or process or human activity (occurrence), ii) the time between commencement and detection (lag), iii) the time period of detectability (manifestation) and iv) the time from commencement to completion (duration; whether actual or perceived. For each 'impact (pressure)' category listed in the Global Change Taxonomy, the following suggests periods of occurrence, lag, manifestation and duration assuming observations at the ground level, noting that this may differ  when observed remotely depending on their modes of operation (e.g., optical, lidar, radar).
+
 Time period|Key
 :--:|:--:
 Subdaily to daily|:clock2:
