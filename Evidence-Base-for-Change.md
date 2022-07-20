@@ -16,7 +16,8 @@ For each of the impact and pressures listed in the Global Change Taxonomy, EDs (
 ||||NW|Natural Water|128
 ||||WAT|Artificial or Natural Water|220
 
-**Note**:  Changes between OEDs are indicated numerically (e.g., 216128 represents a change from a bare surface to natural water). 
+**Note**:  Changes between OEDs are indicated numerically (e.g., 216128 represents a change from a bare surface to natural water). Both within and between class OED changes are represented.
+
 Scroll to the right to see the full list of EDs that can be compared to provide evidence for change.
 
 IMPACT PRESSURE|CTV|NTV|CAV|NAV|AS|NS|AW|NW|WAT|LIFEFORM|Woody|Trees|Shrubs|Herbaceous|Forbs|Graminoids|Lichens/Mosses|Algae|Aquatic forbs|Cover %|Height m|Leaftype|Phenology|STRATA|Trees|(Cover %)|(Height m)|Shrubs|(Cover %)|(Height m)|Herb.|(Cover %)|(Height m)|CROPS|(Comb.)|(Seq.)|(Water supply)|(Time factor)|ARTIFICIAL|Linear|Non-linear|Density|Consolidated|Bare rock|Loose|Unconsolitated|Water state|Water movement|Water persistence|Water seasonality|Waterlogged|Tidal|Snow persistence|Water/Snow depth|Sediment|SUBSTRATE |Rock|Soil|Sand|AGB Mg/ha|Woody %|PV %|NPV %|Veg moist (%)|Burn scar|Active fire|Chl. g cm3|Chl. g cm3|Urban density %|Building height m|Bare %|Soil moisture %|Soli pH|Salinity|Water pH|Water vel. m/sec|Water quality|Flora|Dom. Sp.|Richness|LST oC|SST oC|FWT oC|Wind sp. m sec|Precip. Mm|Air Temp oC|Day length|Elevation m|Slope o|Aspect o|
