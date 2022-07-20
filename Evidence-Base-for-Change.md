@@ -4,17 +4,20 @@ The following table suggests evidence for the different 'impact (pressure)' clas
 
 For each of the impact and pressures listed in the Global Change Taxonomy, EDs (OEDs, EEDs and AEDs) that provide evidence for each 'impact (pressure)' category are suggested. The nature of change (positive or negative for continuous variables or simply a change for categories) is suggested.  
 
-|Symbol| Explanation
-:-----:|:-----
-+| Increase in amounts
-□+| Likely increase in amounts
--| Decrease in amounts
--□| Likely decrease in amounts
-△| A change in type (e.g., species, water state) 
-
+|Symbol| Explanation||Broad Class|Meaning
+:-----:|:-----:|:-----:|:-----:|:-----:
++| Increase in amounts||CTV|Cultivated Terrestrial Vegetation|111
+□+| Likely increase in amounts||NTV|Natural Terrestrial Vegetation|112
+-| Decrease in amounts||CAV|Cultivated Aquatic Vegetation|123
+-□| Likely decrease in amounts||NAV|Natural Aquatic Vegetation|124
+△| A change in type (e.g., species, water state)||Artificial SurfaceAS|215
+||||BS|Bare Surface|216
+||||AW|Artificial Water|127
+||||NW|Natural Water|128
+||||WAT|Artificial or Natural Water|220
 
 IMPACT PRESSURE|CTV|NTV|CAV|NAV|AS|NS|AW|NW|WAT|LIFEFORM|Woody|Trees|Shrubs|Herbaceous|Forbs|Graminoids|Lichens/Mosses|Algae|Aquatic forbs|Cover %|Height m|Leaftype|Phenology|STRATA|Trees|(Cover %)|(Height m)|Shrubs|(Cover %)|(Height m)|Herb.|(Cover %)|(Height m)|CROPS|(Comb.)|(Seq.)|(Water supply)|(Time factor)|ARTIFICIAL|Linear|Non-linear|Density|Consolidated|Bare rock|Loose|Unconsolitated|Water state|Water movement|Water persistence|Water seasonality|Waterlogged|Tidal|Snow persistence|Snow depth|Sediment|SUBSTRATE |Rock|Soil|Sand|AGB Mg/ha|Woody %|PV %|NPV %|Veg moist (%)|Burn scar|Active fire|Chl. g cm3|Chl. g cm3|Urban density %|Building height m|Bare %|Soil moisture %|Soli pH|Salinity|Water pH|Water vel. m/sec|Water quality|Flora|Dom. Sp.|Richness|LST oC|SST oC|FWT oC|Wind sp. m sec|Precip. Mm|Air Temp oC|Day length|Elevation m|Slope o|Aspect o|
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Accretion (sediment transport)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||| |-□|+|△|-|+|+||||||||||||||||||||||||||||||||||
 Algal bloom (eutrophication)|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Algal bloom (high inland water temperatures)|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
