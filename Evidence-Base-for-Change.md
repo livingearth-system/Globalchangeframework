@@ -1,3 +1,17 @@
+# EVIDENCE FOR CHANGE
+
+The following table suggests evidence for the different 'impact (pressure)' classes defined within the Global Change Taxonomy, with these based on comparisons of what are termed 'Environmental Descriptors' (or EDs) between time-separated periods (e.g., hours to years). These descriptors can be differentiated depending on whether they i) provide broad classifications of land covers according to established land cover taxonomies, such as the Food and Agriculture Organisation (FAO) Land Cover Classification System (LCCS; Version 2) (referred to as **Overarching Environmental Descriptors (OEDs)**, ii) give more detail to these classes defined within these taxonomies (referred to as **Essential Environmental Descriptors (EEDs)**), or iii) give information beyond that used in these taxonomies (referred to as **Additional Environmental Descriptors (AEDs)**.
+
+For each of the impact and pressures listed in the Global Change Taxonomy, EDs (OEDs, EEDs and AEDs) that provide evidence for each 'impact (pressure)' category are suggested. The nature of change (positive or negative for continuous variables or simply a change for categories) is suggested.  
+
+| Symbol| Explanation
+:-----:|:-----
++| Increase in amounts
+□+| Likely increase in amounts
+-| Decrease in amounts
+-□| Likely decrease in amounts
+△| A change in type (e.g., species, water state) 
+
 
 | | | | | | | | | | | | Lifeform|Canopy cover|Canopy height|AGB|TEST|WF|PVF|NVPF|VM |BSP|AFP|
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
