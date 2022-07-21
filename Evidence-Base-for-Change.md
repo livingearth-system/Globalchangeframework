@@ -5,33 +5,43 @@ The following table suggests evidence for the different 'impact (pressure)' clas
 For each of the impact and pressures listed in the Global Change Taxonomy, EDs (OEDs, EEDs and AEDs) that provide evidence for each 'impact (pressure)' category are suggested. The nature of change (positive or negative for continuous variables or simply a change for categories) is suggested.    
 
 |Symbol| Explanation||Broad Class|Full Name|Numerical code
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-+| Increase in amounts||CTV|Cultivated Terrestrial Vegetation|111
-□+| Likely increase in amounts||NTV|Natural Terrestrial Vegetation|112
--| Decrease in amounts||CAV|Cultivated Aquatic Vegetation|123
--□| Likely decrease in amounts||NAV|Natural Aquatic Vegetation|124
-△| A change in type (e.g., species, water state)||AS|Artificial Surface|215
-||||BS|Bare Surface|216
-||||AW|Artificial Water|127
-||||NW|Natural Water|128
-||||WAT|Artificial or Natural Water|220
+:-----:|:-----|:-----|:-----:|:-----|:-----:
+**+**| Increase in amounts||**CTV**|Cultivated Terrestrial Vegetation|111
+**□+**| Likely increase in amounts||**NTV**|Natural Terrestrial Vegetation|112
+**-**| Decrease in amounts||**CAV**|Cultivated Aquatic Vegetation|123
+**-□**| Likely decrease in amounts||**NAV**|Natural Aquatic Vegetation|124
+**△**| A change in type (e.g., species, water state)||**AS**|Artificial Surface|215
+||||**BS**|Bare Surface|216
+||||**AW**|Artificial Water|127
+||||**NW**|Natural Water|128
+||||**WAT**|Artificial or Natural Water|220
 
-**Note**:  Changes between OEDs are indicated numerically (e.g., 216128 represents a change from a bare surface to natural water). Both within and between class OED changes are represented.
+**Note**:  Changes between OEDs are indicated numerically (e.g., 216128 represents a change from a bare surface to natural water). Both between class (**in bold**) and within class OED changes are represented.
 
-Scroll to the right to see the full list of EDs that can be compared to provide evidence for change.
+Scroll to the right to see the full list of EDs that can be compared to provide evidence for change. Some acronyms are used and these are listed below.
+
+|Acronym| Explanation||Acronym| Explanation
+|:-|:-|:-|:-|:-|
+**PV Fraction**|Photosynthetic Vegetation Fraction||**LST**|Land Surface Temperature
+**NPV Fraction**|Non-photosynthetic Vegetation Fraction||**SST**|Sea Surface Temperature
+**Veg. Moist.**|Vegetation moisture content||**FWT**|Freshwater Surface Temperaturee
+**Dom. Sp.**|Dominant species||**Precip.**|Precipitation
+**Air Temp.**|Air Temperature|||
+
+
 
 IMPACT PRESSURE|CTV|NTV|CAV|NAV|AS|NS|AW|NW|WAT|LIFEFORM|Woody|Trees|Shrubs|Herbaceous|Forbs|Graminoids|Lichens Mosses|Algae|Aqu. Forbs|Cover|Height|Leaf type|Phenology|STRATA|Trees|(Cover)|(Height)|Shrubs|(Cover)|(Height)|Herbaceous|(Cover)|(Height)|CROPS|(Combination)|(Sequence)|(Water Supply)|(Time Factor)|ARTIFICIAL|Linear|Non-linear|Density|BARE CONSOL.|(Rock)|(Boulders/Gravels)|BARE UNCONSOL.|WATER State|Movement| Persistence|Seasonality|Waterlogged|Tidal|SNOW Persistence|WATER/SNOW Depth|Sediment Loads|SUBSTRATE|Rock|Soil|Sand|Biomass|Woody Fraction|PV Fraction|NPV Fraction|Veg Moist.|Burn scar|Active fire|Chlorophyll|Other foliar chem.|Urban density|Building height|Bare Fraction|Soil moisture|Soil pH|Salinity|Water pH|Water Velocity|Water Quality|Flora Indicators|Dom. Sp.|Sp. Richness|LST|SST|FWT|Wind speed|Precip.|Air Temp|Daylength|Elevation|Slope|Aspect|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Accretion (sediment transport)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||| |-□|+|△|-|+|+||||||||||||||||||||||||||||||||||
-Algal bloom (eutrophication)|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Algal bloom (high inland water temperatures)|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Algal bloom (increased temperature)|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Algal dieback (decreased temperature)||||124220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Bare soil exposure (burning)||112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Bare soil exposure (erosion)||112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Bare soil exposure (ploughing)|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Bare soil exposure (tillage)|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Blackwater event (inundation following extended drought)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||||+|||||||||||||||||||||||||||+||□+||||||||||
+**Algal bloom** (eutrophication)|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Algal bloom (high inland water** temperatures)|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Algal bloom (increased temperature)**|||||||||220124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Algal dieback (decreased temperature)**||||124220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Bare soil exposure (burning)**||112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Bare soil exposure (erosion)**||112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Bare soil exposure (ploughing)**|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Bare soil exposure (tillage)**|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Blackwater event (inundation following extended drought)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||□+||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
 Vegetation Browning (decreased precipitation)|111111|112112|123123|124124||||||||||-□|-□|-□||||-□|-□||||||||||||||||||||||||||||||||||||||||||+|-□||-|||||||||||||||||||||||||||
 Building or infrastructure abandonment (dam removal)|||||215215||||||||||||||||||||||||||||||||||-|-|-|-||||||||||||||||||||||||||||||||||||||||||||||-|△|△|||
@@ -60,18 +70,18 @@ Crop damage (grazing (stock))|111111|112112|123123|124124||||||||||||||||-□|-|
 Crop damage (increased wind)|111111||123123||||||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Crop damage (insect herbivory)|111111||123123|||||||||||||||||-□||||||||||||||||||||||||||||||||||||||||-□||-□|||||||||||||||||||||||||||||||
 Crop damage (strong winds)|111111||123123||||||||||||||||||-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Crop establishment (planting)|||||||216111||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Cropland gain (agricultural expansion)||112111||124123|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Cropland gain (farmland creation)||112111||124123|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Cropland loss (agricultural loss)|111112||123124||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Crop establishment (planting)**|||||||216111||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Cropland gain (agricultural expansion)**||112111||124123|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Cropland gain (farmland creation)**||112111||124123|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Cropland loss (agricultural loss)**|111112||123124||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Cropland loss (animal stock change)|111111|||||||||||||||||||△|△||||||||||||||△|||||||||||||||||||||||||△||△|△|△|||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
 Cropland loss (fallowing)|111111|||||||||||||||||||△|□+||||||||||||||△|||||||||||||||||||||||||△||-□|□+|△|||||||||||||||||||||||||||||
-Cropland loss (farmland abandonment)||111112|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Cropland loss (farmland abandonment)**||111112|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Cropland loss (idle or fallow in rotation)|111111|||||||||||||||||||△|△||||||||||||||△|||||||||||||||||||||||||△||△|△|△|||△||||||||||||||||||||||||||
-Deglaciation (prolonged temperature increase)|||||||||210216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Deglaciation (prolonged temperature increase)**|||||||||210216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Desalinisation (gypsum application)|111111|||||||||||||||||||△|△|||||||||||||||||||||||||||||||||||||||△||△|△||||△||||||||||||||||||||||||||
-Desertification (prolonged temperature increase)||112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Desertification (prolonged temperature increase)**||112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Elevation change (deposition)||||||216216||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||||||||||+|△|△|||
 Elevation change (earthquake)|111111|112112|123123|124124|215215|216216|227227|228228|220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|-||||||||||||||||||△|||||
 Elevation change (landslide)|111111|112112|123123|124124|215215|216216|227227|228228|220220|||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||-□||-□|□+|△|||||-□|-||||||||||||||||||△-|△|△|||
@@ -92,7 +102,7 @@ Erosion (wave action)||||124216||216216||||||||||||||||||||||||||||||||||||||||�
 Flooding (excess rain)|112220|112220|123220|124220|215220|216220|||220220|||||||||||||||||||||||||||||||||||||||+|□+|△|+|||+|+||||||||||||||||||||||||||||||||||||||
 Flooding (excess snow)|112220|112220|123220|124220|215220|216220|||220220|||||||||||||||||||||||||||||||||||||||+|□+|△|+|||+|+||||||||||||||||||||||||||||||||||||||
 Geomorphological change (mining)|111215|112215|123215|124215|215215|216215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|△|△|||
-Glaciation (prolonged temperature decrease)||112220||124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Glaciation (prolonged temperature decrease)**||112220||124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Greening (increased precipitation)|111111|112112|123123|124124||||||||||||||||□+|□+|||||||||||||||||||||||||||||||||||||||□+||+|-|□+||+|||||||||||||||||||||||||||
 Increased sediment load (sediment transport)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||||||
 Inundation (flooding)|111220|112220|123220|124220|215220|216220|||220220|||||||||||||||||||||||||||||||||||||||+|+|△|+||□+|+|+||||||||||||||||||||||||||||||||||||||
@@ -107,15 +117,15 @@ Natural surface gain (urban rehabilitation)|||||215215||||||||||||||||||||||||||
 Natural surface loss (mining)|||||215215|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|△|△|||
 Net snow gain (amount) (snowfall)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||□+|+|||||||||||||||||||||||||||||||||||||||
 Net snow loss (amount) (snowmelt)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||□+|-|||||||||||||||||||||||||||||||||||||||
-Net snow gain (extent) (snowfall)|111220|112220|123220|124220|215220|216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Net snow loss (extent) (snowmelt)|220111|220112|220123|220124|220215|220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Net snow gain (extent) (snowfall)**|111220|112220|123220|124220|215220|216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Net snow loss (extent) (snowmelt)**|220111|220112|220123|220124|220215|220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
 Net snow gain (hydroperiod) (prolonged temperature decrease)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||+||||||||||||||||||||||||||||||||||-||||||
 Net snow loss (hydroperiod) (prolonged temperature increase)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||-||||||||||||||||||||||||||||||||||+||||||
 Phenological change (natural diurnal and seasonal cycles)||112112||124124||||||||||||||||△|||△|||||||||||||||||||||||||||||||||||||△|△|△|△|||△|△|△|||||||||||||||||||||||||
 Railway or road abandonment (reduced investment in infrastructure)||215112||215124|215215||||||||||||||||||||||||||||||||||-□|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||
 Railway or road construction (increased investment in infrastructure)|111215|112215|123215|124215|215215|216215|||220215||||||||||||||||||||||||||||||+|+|||||||||||||||||||||||||||||||||||||||||||||||||||||
-Receding Flood (reduced runoff post flood)|220111|220112|220123|220214|220215|220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Receding Flood (reduced runoff post flood)**|220111|220112|220123|220214|220215|220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Salinisation (evaporation)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||||-□||||||||||||||||||||+|||||||||||||||||||
 Salinisation (sea level fluctuation)|111111|112112|123123|124124||216216||||||||||||||△|△|||||||||||||||||||||||||||||||||||||||||||||||||||||||||△|△|△|||||||||||||
 Sea ice decrease (prolonged temperature increase)||||||||228228|220220|||||||||||||||||||||||||||||||||||||||||||||□+||||||||||||||||||||||||||||+|||||||||||
@@ -128,9 +138,9 @@ Sedimentation (dredging)|||||||| |220220||||||||||||||||||||||||||||||||||||||||
 Sink hole (subsidence)|111111|112112|123123|124124|215215|216216|||||||||||||||||||||||||||||||||||||△|||△||||||||||||||||||||||||||||||||||||||||||-|||||
 Snow accumulation (snowfall)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||||||
 Snow melt (increased temperature)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||||||||||||||||||||||
-Urban area loss (earthquake)|||||215216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Urban area loss (flooding)|||||215220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Urban area loss (tropical cyclone)|||||215216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Urban area loss (earthquake)**|||||215216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Urban area loss (flooding)**|||||215220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Urban area loss (tropical cyclone)**|||||215216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
 Urban damage (flooding)|||||215215||||||||||||||||||||||||||||||||||||||||||+|+||||||+|+||||||||||||||-□||||||||||||||||||||||||
 Urban damage (increased wind)|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□|||||||||||||||+|||||||||
@@ -140,10 +150,10 @@ Urban decay (mine abandonment)|||||215215|||||||||||||||||||||||||||||||||||||||
 Urban decay (subsidence)|||||215215|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-||||||||||||||||||-|||||
 Urban densification (construction)|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|□+|||||||||||||||||||||||
 Urban development (levelling)|||||215215|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|||||||||||||||||||||||
-Urban growth (construction)|111215|112215|123215|124215| |216215|||220215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Urban growth (construction)**|111215|112215|123215|124215| |216215|||220215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Urban renewal (repairing damage)|||||215215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||□+|△|||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
-Urban sprawl (construction)|111215|112215|123215|124215| |216215|||220215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Urban sprawl (construction)**|111215|112215|123215|124215| |216215|||220215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation damage (bushfire)|111111|112112|123123|124124||||||||||||||||-|-□|||||||||||||||||||||||||||||||||||||||-|+|-|+||||||||||||||||||||||||||||||
 Vegetation damage (excess precipitation)|111111|112112|123123|124124||||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||-|-|-□|□+||||||||||||||||||||||||||||||
 Vegetation damage (excess rain)|111111|112112|123123|124124||||||||||||||||-□|-|||||||||||||||||||||||||||||||||||||||-|-|-□|□+||||||||||||||||||||||||||||||
@@ -171,12 +181,12 @@ Vegetation dieback (water salinisation)|111111|112112|123123|124124|||||||||||||
 Vegetation dieback (sea level fluctuation)|111111|112112|123123|124124||||||||||||||||-||||||||||||||||||||||||||||||||||||||||-|-□|-|+||||||||||||||||||||||||||||||
 Vegetation dieback (soil salinisation)|111111|112112|123123|124124||||||||||||||||-□||||||||||||||||||||||||||||||||||||||||△|△|△|+||||△||||||||||||||||||||||||||
 Vegetation gain (amount) (thinning)| |112112| |124124||||||||||||||||-|-|||△||△|△|||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
-Vegetation gain (amount) (afforestation)|111112| |123124| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (amount) (afforestation)**|111112| |123124| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (amount) (bushfire recovery)| |112112| | ||||||△||||||||||+|+|||||△|△||△|△||△|△|||||||||||||||||||||||||||+|+|□+|-|+|1|1|□+||||||||||||||||||||||||||
 Vegetation gain (amount) (ecological restoration)| |112112| |124124||||||△|||||||||□+|+|+|||△||△|□+||△|△||△|△|||||||||||||||||||||||||||+|+|□+|-||||||||||||||||||||||||||||||
 Vegetation gain (amount) (encroachment)|111112|112112|123124|124124||||||△|||||||||□+|+|+|||△||△|□+||△|△||△|△|||||||||||||||||||||||||||+|+|□+|△||||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
-Vegetation gain (amount) (farmland abandonment)|111112||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (amount) (farmland abandonment)**|111112||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (amount) (fertilisation)|111111| |123123|||||||||||□+|□+|□+||||+|+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (amount) (fertiliser application)|111111||123123|||||||||||□+|□+|□+||||+|+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (amount) (growth)|111111|112112|123123|124124||||||||||□+|□+|□+||||+|+|||||△|□+||△|△||△|△|||||||||||||||||||||||||||+|+|□+|△|+|||+||||||||||||||||||||||||||
@@ -185,44 +195,44 @@ Vegetation gain (amount) (reforestation (natural))|111112|112112|123124|124124||
 Vegetation gain (amount) (reforestation (plantations))|111111||123123|||||||△|+|||||||||+|+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (amount) (regrowth)||112112||124124||||||||||||||||+|+|||||△|□+||△|△||□+|△|||||||||||||||||||||||||||+|+|□+|-|□+|||□+||||||||||||||||||||||||||
 Vegetation gain (amount) (removal of herbivores)||112112||124124||||||△||||□+|□+|□+||||+|+|||||△|□+||△|△||□+|△|||||||||||||||||||||||||||+|+|□+|-||||□+||||||||||||||||||||||||||
-Vegetation gain (amount) (revegetation)|111124||123124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (amount) (revegetation)**|111124||123124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
-Vegetation gain (amount) (urban greening)|||||215111||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (amount) (urban greening)**|||||215111||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (amount) (vegetation thickening)||112112||||||||△|+|+|+|-□|-□|-□||||+|+|||△||□+|△||□+|□+||△|△|||||||||||||||||||||||||||+|+|□+|△||||□+||||||||||||||||||||||||||
-Vegetation gain (extent) (afforestation)|111124||111124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation gain (extent) (colonisation)||216112||216124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (afforestation)**|111124||111124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (colonisation)**||216112||216124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (extent) (ecological restoration)|112112||124124|||||||△|□+|||□+||||||△|△|△||△|△|△|△|△|△|△|△|△|△|||||||||||||||||||||||||||□+||□+|-□|△|||||||||||||||||||||||||||||
-Vegetation gain (extent) (greenspace construction)||215112||215124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation gain (extent) (mine site rehabilitation)||215112||215124||215216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation gain (extent) (planting)|216111|216112|216123|216124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (greenspace construction)**||215112||215124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (mine site rehabilitation)**||215112||215124||215216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (planting)**|216111|216112|216123|216124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation gain (extent) (rehabilitation)|112112||124124|||||||△|□+|□+||||||||△|△|△||△|△|△|△|△|△|△|△|△|△|||||||||||||||||||||||||||□+||□+|-□|△|||||||||||||||||||||||||||||
-Vegetation gain (extent) (revegetation)||216112||216124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (revegetation)**||216112||216124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
-Vegetation gain (extent) (snowmelt)|220111|220112|220123|220124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation gain (extent) (decreased wave action)||||220124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (snowmelt)**|220111|220112|220123|220124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation gain (extent) (decreased wave action)**||||220124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation health deterioration (abandonment of fertilizer application)|111111||123123|||||||||||||||||-|-□||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation health deterioration (decreased nutrient supply in soil)|111111|112112|123123|124124||||||||||||||||-||||||||||||||||||||||||||||||||||||||||△||-□|□+||||-□||||||||||||||||||||||||||
 Vegetation health improvement (fertiliser application)|111111||123123|||||||||||||||||□+|□+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation health improvement (increased nutrient supply)|111111|112112|123123|124124||||||||||||||||□+||||||||||||||||||||||||||||||||||||||||△||□+|-□||||□+||||||||||||||||||||||||||
 Vegetation health improvement (irrigation)|111111||123123|||||||||||||||||□+|□+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (bushfire)||112216||124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (deforestation)|112111|112112|124123|112124|112215|112216||||△|-|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (drought)|111216|112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (bushfire)**||112216||124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (deforestation)**|112111|112112|124123|112124|112215|112216||||△|-|-□|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (drought)**|111216|112216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
-Vegetation loss (extent) (excess rain)|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (farmland abandonment)|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (flooding)|112220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (land reclamation)| |112216||124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (sea defence construction)|111216|112216|123216|124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (severe thunderstorm)|111216|112216|123216|124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (strong winds)|111216|112216|123216|124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (vegetation clearance)||112216||124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Vegetation loss (extent) (wave action)|| |123220|124220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (excess rain)**|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (farmland abandonment)**|111216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (flooding)**|112220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (land reclamation)**| |112216||124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (sea defence construction)**|111216|112216|123216|124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent)(severe thunderstorm**)|111216|112216|123216|124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (strong winds)**|111216|112216|123216|124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (vegetation clearance)**||112216||124216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation loss (extent) (wave action)**|| |123220|124220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation reduction (amount) (bushfire)||112112||||||||△|-□|-□||||||||-|-|||||||||||||||||||||||||||||||||||||||-|-|-|+|-|||-||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
 Vegetation reduction (amount) (coppicing)||112112|||||||||-□|-□||||||||-|-|||||||||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
 Vegetation reduction (amount) (decreased nutrient supply in soil)||112112||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-□||-□|-||||-□||||||||||||||||||||||||||
-Vegetation reduction (amount) (farmland abandonment)|111124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Vegetation reduction (amount) (farmland abandonment)**|111124||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Vegetation reduction (amount) (fuelwood collection)||112112||124124|||||||-□|-□||||||||-|-□|||||||||||||||||||||||||||||||||||||||-|-|-□|△||||||||||||||||||||||||||||||
 Vegetation reduction (amount) (harvesting)|111111|112112|||||||||-□|||||||||-|-|||||||||||||||||||||||||||||||||||||||-|-|-□|||||||||||||||||||||||||||||||
 Vegetation reduction (amount) (pesticide application)||112112||124124||||||||||||||||-|-□|||||||||||||||||||||||||||||||||||||||-□||-□|+||||-||||||||||||||||||||||||||
@@ -278,17 +288,17 @@ Water depth increase (dredging)|||||||||220220||||||||||||||||||||||||||||||||||
 Water depth increase (flooding)|||||||||220220|||||||||||||||||||||||||||||||||||||||+|□+||+|||+|+||||||||||||||||||||||||||||||||||||||
 Water depth increase (sea level fluctuation)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||△||+|||||||||||||||||||||||||||||||||||||||
 Water depth increase (snowmelt)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||-□|-|+|||||||||||||||||||||||||||||||-|||||||
-Water gain (extent) (aquaculture expansion)||||124220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water gain (extent) (excess precipitation)|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water gain (extent) (flooding)|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water gain (extent) (storm surge)|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water gain (extent) (wetland restoration and/or construction)|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water loss (extent) (aquaculture loss)|220111|220112||220124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water loss (extent) (drying)| |220112|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water gain (extent) (aquaculture expansion)**||||124220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water gain (extent) (excess precipitation)**|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water gain (extent) (flooding)**|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water gain (extent) (storm surge)**|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water gain (extent) (wetland restoration and/or construction)**|111220|112220|123220|124220||216220|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water loss (extent) (aquaculture loss)**|220111|220112||220124|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water loss (extent) (drying)**| |220112|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 **IMPACT PRESSURE**|**CTV**|**NTV**|**CAV**|**NAV**|**AS**|**NS**|**AW**|**NW**|**WAT**|**LIFEFORM**|**Woody**|**Trees**|**Shrubs**|**Herbaceous**|**Forbs**|**Graminoids**|**Lichens Mosses**|**Algae**|**Aqu. Forbs**|**Cover**|**Height**|**Leaf type**|**Phenology**|**STRATA**|**Trees**|**(Cover)**|**(Height)**|**Shrubs**|**(Cover)**|**(Height)**|**Herbaceous**|**(Cover)**|**(Height)**|**CROPS**|**(Combination)**|**(Sequence)**|**(Water Supply)**|**(Time Factor)**|**ARTIFICIAL**|**Linear**|**Non-linear**|**Density**|**BARE CONSOL.**|**(Rock)**|**(Boulders/Gravels)**|**BARE UNCONSOL.**|**WATER State**|**Movement**| **Persistence**|**Seasonality**|**Waterlogged**|**Tidal**|**SNOW Persistence**|**WATER/SNOW Depth**|**Sediment Loads**|**SUBSTRATE**|**Rock**|**Soil**|**Sand**|**Biomass**|**Woody Fraction**|**PV Fraction**|**NPV Fraction**|**Veg Moist.**|**Burn scar**|**Active fire**|**Chlorophyll**|**Other foliar chem.**|**Urban density**|**Building height**|**Bare Fraction**|**Soil moisture**|**Soil pH**|**Salinity**|**Water pH**|**Water Velocity**|**Water Quality**|**Flora Indicators**|**Dom. Sp.**|**Sp. Richness**|**LST**|**SST**|**FWT**|**Wind speed**|**Precip.**|**Air Temp**|**Daylength**|**Elevation**|**Slope**|**Aspect**|
-Water loss (extent) (land reclamation)|220111|220112|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water loss (extent) (reduced snowfall)|220111|220112|220123|220124|220215|220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Water loss (extent) (wetland drainage)|220111|220112||| |220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water loss (extent) (land reclamation)**|220111|220112|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water loss (extent) (reduced snowfall)**|220111|220112|220123|220124|220215|220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+**Water loss (extent) (wetland drainage)**|220111|220112||| |220216|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Water quality change (fracking)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||||||||||||||||
 Water quality change (nutrification)|||||||||220220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||△||||||||||||||||
 Water quality change (pollution)|||||||||220220|||||||||||||||||||||||||||||||||||||||||||||||△|||||||||||||||||||||-||||||||||||||||
