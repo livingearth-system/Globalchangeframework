@@ -14,10 +14,10 @@ Centuries|:black_circle:
 
 Time factor|High|Medium|Low|Unlikely
 :--:|:--:|:--:|:--:|:--:
-**OCCURENCE**|![Occurance3](https://user-images.githubusercontent.com/47514467/179357195-ecd343a1-e21b-4c28-8900-61d0ab945b65.png)|![Occurance2](https://user-images.githubusercontent.com/47514467/179357175-4a0e8b6f-5dd2-4ce9-b9f1-61133f95a02a.png)|![Occurance1](https://user-images.githubusercontent.com/47514467/179357125-3f45d0b1-a067-498a-b3a0-2d35570cd1f4.png)|![TimeGeneral](https://user-images.githubusercontent.com/47514467/179353015-fc434c36-6d26-4e84-88d9-c0c338b2f3a8.png)
-**LAG**|![Lag3](https://user-images.githubusercontent.com/47514467/179357348-1c3b1c4c-3fef-4ee6-87e4-1f12feea6a6e.png)|![Lag2](https://user-images.githubusercontent.com/47514467/179357333-4df08158-110c-4fd5-8915-bd69cdd57b40.png)|![Lag1](https://user-images.githubusercontent.com/47514467/179357617-f3669a4c-2fc0-46d8-b1b4-306720d2e849.png)|![TimeGeneral](https://user-images.githubusercontent.com/47514467/179353015-fc434c36-6d26-4e84-88d9-c0c338b2f3a8.png)
-**MANIFESTATION**|![Manifestation3](https://user-images.githubusercontent.com/47514467/179357282-a53f50ae-ccf8-463d-80a9-8874eb861b28.png)|![Manifestation2](https://user-images.githubusercontent.com/47514467/179357265-ca1f878c-9518-4abb-988a-389bf9ea256d.png)|![Manifestation1](https://user-images.githubusercontent.com/47514467/179360143-28bcf00b-2971-4322-bcc6-20fb6d6643ad.png)|![TimeGeneral](https://user-images.githubusercontent.com/47514467/179353015-fc434c36-6d26-4e84-88d9-c0c338b2f3a8.png)
-**DURATION**|![Duration3](https://user-images.githubusercontent.com/47514467/179352960-c33c030c-9620-4b2b-847e-9d85b6a7c53a.png)|![Duration2](https://user-images.githubusercontent.com/47514467/179352939-8019eb50-7216-42f2-973c-dd9598138393.png)|![Duration1](https://user-images.githubusercontent.com/47514467/179352911-91406fb4-145e-4ecc-862b-af12ab950522.png)|![TimeGeneral](https://user-images.githubusercontent.com/47514467/179353015-fc434c36-6d26-4e84-88d9-c0c338b2f3a8.png)
+**OCCURENCE**|<img src="O3.png">|<img src="O2.png">|<img src="O1.png">|<img src="T.png">
+**LAG**|<img src="L3.png">|<img src="L2.png">|<img src="L1.png">|<img src="T.png">
+**MANIFESTATION**|<img src="M3.png">|<img src="M2.png">|<img src="M1.png">|<img src="T.png">
+**DURATION**|<img src="M3.png">|<img src="M2.png">|<img src="M1.png">|<img src="T.png">
 
 (Note:  scroll to the right to see full table).
 Impact (pressure)|:clock2:|:clock4:|:clock6:|:clock8:|:clock10:|:clock12:|:black_circle:|:clock2:|:clock4:|:clock6:|:clock8:|:clock10:|:clock12:|:black_circle:|:clock2:|:clock4:|:clock6:|:clock8:|:clock10:|:clock12:|:black_circle:|:clock2:|:clock4:|:clock6:|:clock8:|:clock10:|:clock12:|:black_circle:
