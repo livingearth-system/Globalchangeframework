@@ -6,7 +6,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 Impact (pressure) | Impact (pressure)
--- | --
+:-- | :--
 Accretion (sediment transport)|Vegetation dieback (cold snap)
 Algal bloom (eutrophication)|Vegetation dieback (drought)
 Algal bloom (high inland water temperatures)|Vegetation dieback (heatwave)
