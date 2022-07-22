@@ -1,4 +1,4 @@
-The Global Change Taxonomy currently lists 248 classes based on the notation ‘impact (pressure)’, with this encompassing the consequence of observed change and associated reason(s), and uses scale-independent terms that factor in time. 
+The Global Change Taxonomy currently lists 246 classes based on the notation ‘impact (pressure)’, with this encompassing the consequence of observed change and associated reason(s), and uses scale-independent terms that factor in time. 
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
