@@ -16,7 +16,7 @@ For each of the impact and pressures listed in the Global Change Taxonomy, EDs (
 ||||**NW**|Natural Water|128
 ||||**WAT**|Artificial or Natural Water|220
 
-**Note**:  Both between class (**in bold**) and within class OED changes are represented.  Changes between OED classes are indicated numerically (e.g., 216128 represents a change from a bare surface to natural water) and within class changes are then not relevant. Where the OED class remains the same, within class changes in amounts (e.g., vegetation cover, water depth) or type (e.g., dominant plant species or water state) are suggested.
+**Note**:  Both between class (**in bold**) and within class OED changes are represented (See Lucas et al. (2020)).  Changes between OED classes are indicated numerically (e.g., 216128 represents a change from a bare surface to natural water) and within class changes are then not relevant. Where the OED class remains the same, within class changes in amounts (e.g., vegetation cover, water depth) or type (e.g., dominant plant species or water state) are suggested.
 
 Scroll to the right to see the full list of EDs that can be compared to provide evidence for change. Some acronyms are used and these are listed below.
 
